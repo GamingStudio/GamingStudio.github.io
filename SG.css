@@ -31,7 +31,13 @@ div.motd {
    border-right: 2px solid;
    border-left: 2px solid;
    border-bottom: 2px solid;
+   border-top: 1px solid;
    border-color: black;
    background-color: #bfbfbf;
    opacity: 0.85;
+}
+
+a {
+   color: #5900b3;
+   text-decoration: none;
 }

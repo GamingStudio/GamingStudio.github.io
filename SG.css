@@ -2,6 +2,7 @@ body {
    background-image: linear-gradient(#000080, black);
    background-color: #cccccc;
    background-repeat: no-repeat;
+
 }
 
 div.background {
@@ -20,7 +21,7 @@ div.transbox {
 div.transbox h1 {
     margin: auto;
     font-weight: bold;
-    color: rgb(148,0,211);
+    color: cyan;
    text-align: center;
 }
 
@@ -57,7 +58,7 @@ li {
 
 li a {
     display: block;
-    color: #ff1aff;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;

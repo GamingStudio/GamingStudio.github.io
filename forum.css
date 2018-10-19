@@ -1,6 +1,8 @@
 body {
-   background-image: url("forum.jpg");
-   background-repeat: repeat;
+   background-image: linear-gradient(#000080, black);
+   background-color: #cccccc;
+   background-repeat: no-repeat;
+
 }
 
 ul {
@@ -17,7 +19,7 @@ li {
 
 li a {
     display: block;
-    color: #66ff66;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
